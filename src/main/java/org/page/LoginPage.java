@@ -36,6 +36,8 @@ public class LoginPage extends BaseClass {
 		// TODO Auto-generated method stub
 System.out.println("karthi");
 System.out.println("ranjith");
+System.out.println("karthickramu");
+System.out.println("suresh");
 
 	}
 
